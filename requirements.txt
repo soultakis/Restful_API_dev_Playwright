@@ -9,3 +9,10 @@ Faker
 
 # Then also run thefollowing command because it comes from playwright:
 # playwright install
+
+
+# url of the github repository
+# https://github.com/soultakis/Restful_API_dev_Playwright.git
+
+
+# token from github: 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
