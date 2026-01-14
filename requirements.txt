@@ -1,0 +1,11 @@
+pytest
+playwright
+pytest-playwright
+pytest-xdist
+Faker
+
+# Run the following command in the root folder of the project
+# pip install -r requirements.txt
+
+# Then also run thefollowing command because it comes from playwright:
+# playwright install
